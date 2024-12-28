@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "name": "HTML",
+      "link": "https://html.com/",
+      "logo": "SvgoPrismaColor"
+    },
+    {
+      "name": "CSS",
+      "link": "https://www.w3.org/Style/CSS/Overview.en.html",
+      "logo": "SvgoVercel"
+    },
+    {
+      "name": "Javascript",
+      "link": "https://www.javascript.com/",
+      "logo": "SvgoNestColor"
+    },
+    {
+      "name": "React",
+      "link": "https://react.dev/",
+      "logo": "SvgoNuxtColor"
+    },
+    {
+      "name": "Vue",
+      "link": "https://vuejs.org/",
+      "logo": "SvgoVueColor"
+    },
+    {
+      "name": "Anguler",
+      "link": "https://angularjs.org/",
+      "logo": "SvgoIllustratorColor"
+    },
+    {
+      "name": "TailwindCSS",
+      "link": "https://tailwindcss.com/",
+      "logo": "SvgoTailwindColor"
+    },
+    {
+      "name": "Bootstrap",
+      "link": "https://getbootstrap.com/",
+      "logo": "SvgoPhotoshopColor"
+    },
+    {
+      "name": "Uikit",
+      "link": "https://getuikit.com/",
+      "logo": "SvgoLightroomColor"
+    },
+    {
+      "name": "Gsap",
+      "link": "https://gsap.com/",
+      "logo": "SvgoNotionColor"
+    },
+    {
+      "name": "Figma",
+      "link": "https://www.figma.com/",
+      "logo": "SvgoFigmaColor"
+    }
+  ]
+}
