@@ -4,7 +4,7 @@
 
 1. Clone this repository if you have access or download it from the store
 ```bash
-https://github.com/mihir509/portfolio.git
+https://github.com/deepa098/deepaKumawat-portfolio.git
 ```
 
 2. Install dependencies
